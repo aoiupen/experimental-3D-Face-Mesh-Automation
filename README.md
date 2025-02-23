@@ -47,3 +47,8 @@
 
 ![Before Automation](./src/Summary_03.png)
 ![After Automation](./src/Summary_04.png)
+
+## 3. Idle time 관점
+
+![Before Automation](./src/Summary_05.png)
+![After Automation](./src/Summary_06.png)
