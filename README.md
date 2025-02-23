@@ -38,17 +38,19 @@
 - **목표** : Reality Capture, Wrap 3D, Blender의 반복 작업 자동화, 배치화
 - **효과** : 작업 속도 및 정확도 향상, 팀 생산성 향상, 프로젝트 기간 70% 단축
 
-## 1. Work flow 관점
+## 결과과
+
+### 1. Work flow 관점
 
 ![Before Automation](./src/Summary_01.png)
 ![After Automation](./src/Summary_02.png)
 
-## 2. Work load 관점
+### 2. Work load 관점
 
 ![Before Automation](./src/Summary_03.png)
 ![After Automation](./src/Summary_04.png)
 
-## 3. Idle time 관점
+### 3. Idle time 관점
 
 ![Before Automation](./src/Summary_05.png)
 ![After Automation](./src/Summary_06.png)
