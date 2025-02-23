@@ -3,6 +3,8 @@
 
 ![Before Automation](./src/Summary_01.png)
 ![After Automation](./src/Summary_02.png)
+![Before Automation](./src/Summary_03.png)
+![After Automation](./src/Summary_04.png)
 
 # Facescape 2020 논문 참조
 
