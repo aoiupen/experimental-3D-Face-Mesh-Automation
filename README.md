@@ -20,10 +20,10 @@
 - **입력** : 여러 각도의 얼굴 사진
 
 ![3D Scanning](./src/Reality_Capture_01.png)
-![3D Scanning](./src/Reality_Capture_02.png)
 
 - **과정**
     - **Align Images** : 3D Point Cloud 생성
+    ![3D Scanning](./src/Reality_Capture_02.png)
     - **Set Reconstruction Region** : Reconstruction 영역 지정 (AI 활용 자동화 예정)
     - **Dense Reconstruction** : 3D 메쉬 생성
     - **Texturing** : 텍스처 생성
