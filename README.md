@@ -1,3 +1,4 @@
+## 업데이트 중
 # experimental-3D-Face-Mesh-Automation
 - 3D 얼굴 메시 생성 자동화 및 PyQt 기반 UX로 작업 효율성 향상
 
