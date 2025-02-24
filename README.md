@@ -18,6 +18,9 @@
 ## 1. 멀티뷰 이미지 → 3D 모델 (Reality Capture)
 
 - **입력** : 여러 각도의 얼굴 사진
+
+![3D Scanning](./src/Reality_Capture_01.png)
+
 - **과정**
     - **Align Images** : 3D Point Cloud 생성
     - **Set Reconstruction Region** : Reconstruction 영역 지정 (AI 활용 자동화 예정)
