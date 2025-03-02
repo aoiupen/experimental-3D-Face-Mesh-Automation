@@ -22,12 +22,8 @@
 ![3D Scanning](./src/Reality_Capture_01.png)
 
 - **과정**
-    - **Align Images** : 3D Point Cloud 생성
-    ![3D Scanning](./src/Reality_Capture_02.png)
-    - **Set Reconstruction Region** : Reconstruction 영역 지정 (AI 활용 자동화 예정)
-    - **Dense Reconstruction** : 3D 메쉬 생성
-    - **Texturing** : 텍스처 생성
-- **출력** : 3D 메쉬와 텍스처
+- 
+![3D Scanning](./src/Reality_Capture_02.png)
 
 ## 2. 3D 모델 → 정규화된 토폴로지 (Wrap 3D, Blender)
 
