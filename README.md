@@ -17,7 +17,6 @@
 
 ## 1. 멀티뷰 이미지 → 3D 모델 (Reality Capture)
 ![3D Scanning](./src/Reality_Capture_01.png)
-![3D Scanning](./src/Reality_Capture_02.png)
 ## 2. 3D 모델 → 정규화된 토폴로지 (Wrap 3D, Blender)
 
 - **입력** : Reality Capture에서 생성한 3D 모델
