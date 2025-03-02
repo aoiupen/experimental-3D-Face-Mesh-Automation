@@ -16,15 +16,8 @@
 - **언어** : Python (PyQt 프레임워크)
 
 ## 1. 멀티뷰 이미지 → 3D 모델 (Reality Capture)
-
-- **입력** : 여러 각도의 얼굴 사진
-
 ![3D Scanning](./src/Reality_Capture_01.png)
-
-- **과정**
-
 ![3D Scanning](./src/Reality_Capture_02.png)
-
 ## 2. 3D 모델 → 정규화된 토폴로지 (Wrap 3D, Blender)
 
 - **입력** : Reality Capture에서 생성한 3D 모델
