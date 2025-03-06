@@ -18,15 +18,7 @@
 ## 1. 멀티뷰 이미지 → 3D 모델 (Reality Capture)
 ![3D Scanning](./src/Reality_Capture_01.png)
 ## 2. 3D 모델 → 정규화된 토폴로지 (Wrap 3D, Blender)
-
 ![3D Scanning](./src/Wrap_3D_01.png)
-
-- **입력** : Reality Capture에서 생성한 3D 모델
-- **과정**
-    - **Optical Flow Wrapping**
-        - **1차** : 기본 얼굴 템플릿 → 중립 표정
-        - **2차 (표정마다 시행)** : 중립 표정 → 10여 가지 표정
-    - **결과 크로스 체크** : Wrap 3D, Blender에서 확인
 
 # 자동화 (Python, API 활용)
 
