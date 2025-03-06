@@ -19,6 +19,8 @@
 ![3D Scanning](./src/Reality_Capture_01.png)
 ## 2. 3D 모델 → 정규화된 토폴로지 (Wrap 3D, Blender)
 
+![3D Scanning](./src/Wrap_3D_01.png)
+
 - **입력** : Reality Capture에서 생성한 3D 모델
 - **과정**
     - **Optical Flow Wrapping**
